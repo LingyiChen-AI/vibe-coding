@@ -9,7 +9,7 @@
 
 添加飞书群：
 
-![飞书群](images/lark-chat-group.png)
+![飞书群](images/lark.png)
 
 
 AI 时代下的编程：**文档为王**
